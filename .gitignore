@@ -3,3 +3,5 @@
 /target/
 # Project exclude paths
 /out/
+*.txt
+*.bin
